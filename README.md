@@ -69,7 +69,7 @@ I care about making ideas real, experimenting with what I have, and getting a li
   </tr>
 </table>
 
-## \`more-experiments\`
+## `more-experiments`
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Another bot experiment built while exploring community automation.
 
 </div>
 
-## \`current-focus\`
+## `current-focus`
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Another bot experiment built while exploring community automation.
 
 </div>
 
-## \`the-build-loop\`
+## `the-build-loop`
 
 <div align="center">
 
@@ -137,7 +137,7 @@ I learn best by making things, finding the rough edges, and figuring out why the
 - **Debugging is building.** Understanding the failure is part of the progress.
 - **Stay curious.** Today's experiment might become tomorrow's main project.
 
-## \`outside-the-commit\`
+## `outside-the-commit`
 
 I'm drawn to software that makes devices feel more personal — the small improvements that make you wonder why they weren't built in by default. I also enjoy spotting ideas in everyday apps and wondering how I could build my own version.
 
