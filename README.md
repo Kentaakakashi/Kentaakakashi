@@ -11,7 +11,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Kentaakakashi?label=FOLLOWERS&style=flat-square&color=181818&labelColor=050505)](https://github.com/Kentaakakashi?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=Kentaakakashi&label=PROFILE%20VIEWS&color=181818&style=flat-square)](https://github.com/Kentaakakashi)
 [![GitHub](https://img.shields.io/badge/GitHub-Kentaakakashi-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/Kentaakakashi)
 
@@ -70,6 +69,80 @@ I care about making ideas real, experimenting with what I have, and getting a li
   </tr>
 </table>
 
+## \`more-experiments\`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [API-Sentinal](https://github.com/Kentaakakashi/API-sentinal)
+
+A public tooling experiment from my project collection.
+
+<sub>API · TOOLING</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### [WHITEOUT-BOT](https://github.com/Kentaakakashi/WHITEOUT-BOT)
+
+A bot project exploring automation and interactive community tools.
+
+<sub>BOTS · AUTOMATION</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### [Void-bot](https://github.com/Kentaakakashi/Void-bot)
+
+Another bot experiment built while exploring community automation.
+
+<sub>BOTS · EXPERIMENTS</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## \`current-focus\`
+
+<div align="center">
+
+| TRACK | WHAT I'M WORKING TOWARD |
+|:--|:--|
+| AI assistants | More useful workflows, better fallback behaviour, natural interaction |
+| Android | Thoughtful UI, personalisation, and practical system integrations |
+| Web experiences | Clean layouts, strong visual identity, useful product ideas |
+| Developer workflow | Better debugging, automation, and repeatable builds |
+
+</div>
+
+## \`the-build-loop\`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1900&pause=550&color=E6E6E6&center=true&vCenter=true&width=700&height=40&lines=01.+IDEA;02.+PROTOTYPE;03.+BREAK+IT;04.+DEBUG;05.+SHIP+IT;06.+LEARN+SOMETHING;REPEAT." alt="Animated build loop"/>
+
+</div>
+
+I learn best by making things, finding the rough edges, and figuring out why they break. A prototype doesn't need to be perfect; it needs to teach me something and give me a solid next step.
+
+**Rules of the workshop**
+
+- **Useful beats complicated.** A feature should solve an actual problem.
+- **The details matter.** A tool should feel good to use, not just technically work.
+- **Debugging is building.** Understanding the failure is part of the progress.
+- **Stay curious.** Today's experiment might become tomorrow's main project.
+
+## \`outside-the-commit\`
+
+I'm drawn to software that makes devices feel more personal — the small improvements that make you wonder why they weren't built in by default. I also enjoy spotting ideas in everyday apps and wondering how I could build my own version.
+
+> The plan: keep learning, keep shipping, and make every next build a little better.
+
 ## `toolbox`
 
 <div align="center">
@@ -90,6 +163,12 @@ I care about making ideas real, experimenting with what I have, and getting a li
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kentaakakashi&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
 
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kentaakakashi&theme=github_dark" alt="GitHub profile summary"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kentaakakashi&bg_color=080808&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20BUILD%20LOG" alt="GitHub contribution activity graph"/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Kentaakakashi&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub profile trophies"/>
+
 </div>
 
 <sub>Stats are provided by third-party services and may be delayed, unavailable, or subject to their rate limits.</sub>
@@ -106,6 +185,8 @@ If you're building something interesting, experimenting with AI, or just want to
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFFFFF,50:777777,100:FFFFFF" width="75%" alt=""/>
 
-<sub><code>STATUS: LEARNING → BUILDING → REPEATING</code></sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=850&color=BDBDBD&center=true&vCenter=true&width=620&height=28&lines=STATUS%3A+LEARNING;STATUS%3A+BUILDING;STATUS%3A+STILL+NOT+DONE" alt="Animated profile status"/>
+
+<sub>Made of curiosity, stubborn debugging, and too many ideas.</sub>
 
 </div>
