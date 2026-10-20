@@ -327,6 +327,27 @@ My extremely scientific process is usually something like this:
 
 </div>
 
+## Outside the code editor 🎬
+
+When I'm not building apps, I'm making **AMV edits**. Different kind of timeline, same obsession with getting every detail to hit right.
+
+<div align="center">
+
+<a href="https://youtube.com/@zylon_amv?si=aHzaWfA5Vy3YP6xu"><img src="https://img.shields.io/badge/YOUTUBE-ZYLON_AMV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Zylon AMV YouTube channel"/></a>
+<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-1105394446230638623-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NEXT%20AMV-LOADING...-101018?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="New AMV coming soon"/>
+
+**New edit project coming soon.** 👀
+
+More soon — let the edit speak for itself.
+
+</div>
+
+---
+
 ## Got something cool?
 
 <div align="center">
