@@ -305,32 +305,28 @@ My extremely scientific process is usually something like this:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:090910,45:35112E,100:FF003C&text=LATEST%20TRANSMISSIONS&fontColor=FFFFFF&fontSize=24&fontAlignY=55" alt="Latest AMV transmissions"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:090910,45:241020,100:FF003C&fontColor=FFFFFF&fontSize=26&fontAlignY=55&text=LATEST%20TRANSMISSIONS&desc=ZYLON%20AMV%20%E2%80%A2%20NEW%20CUTS%20FROM%20THE%20TIMELINE&descSize=10&descAlignY=78" alt="Latest AMV transmissions"/>
 
-**I make AMVs too. Same perfectionism, different timeline.**
+<p>When I’m not building apps, I’m cutting clips to music. Same obsession with timing, impact, and making every frame hit.</p>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
-<a href="https://youtu.be/JLAVyP8d4m4"><img width="100%" src="https://i.ytimg.com/vi/JLAVyP8d4m4/hqdefault.jpg" alt="Watch my edit: I love"/></a>
+<a href="https://youtu.be/JLAVyP8d4m4"><img width="100%" src="https://img.youtube.com/vi/JLAVyP8d4m4/hqdefault.jpg" alt="Watch my edit — latest AMV"/></a>
 
-<a href="https://youtu.be/JLAVyP8d4m4"><img src="https://img.shields.io/badge/01- I%20LOVE-FF003C?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch I love edit"/></a>
+<a href="https://youtu.be/JLAVyP8d4m4"><img src="https://img.shields.io/badge/WATCH%20EDIT-01-FF003C?style=for-the-badge&labelColor=101018" alt="Watch edit one"/></a>
 
 **EDIT I LOVE**
 
-<sub>Tap the thumbnail to watch on YouTube.</sub>
-
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
-<a href="https://youtu.be/tflu-1wDqmo"><img width="100%" src="https://i.ytimg.com/vi/tflu-1wDqmo/hqdefault.jpg" alt="Watch my second edit"/></a>
+<a href="https://youtu.be/tflu-1wDqmo"><img width="100%" src="https://img.youtube.com/vi/tflu-1wDqmo/hqdefault.jpg" alt="Watch my second AMV edit"/></a>
 
-<a href="https://youtu.be/tflu-1wDqmo"><img src="https://img.shields.io/badge/02-SECOND%20EDIT-8B2BFF?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch second edit"/></a>
+<a href="https://youtu.be/tflu-1wDqmo"><img src="https://img.shields.io/badge/WATCH%20EDIT-02-8B5CF6?style=for-the-badge&labelColor=101018" alt="Watch edit two"/></a>
 
-**LATEST DROP**
-
-<sub>Tap the thumbnail to watch on YouTube.</sub>
+**SECOND CUT**
 
 </td>
 </tr>
@@ -338,14 +334,14 @@ My extremely scientific process is usually something like this:
 
 <br/>
 
-<a href="https://youtube.com/@zylon_amv"><img src="https://img.shields.io/badge/SUBSCRIBE-ZYLON%20AMV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Zylon AMV"/></a>
-<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-OPEN%20MY%20PROFILE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Open Discord profile"/></a>
+<a href="https://youtube.com/@zylon_amv"><img src="https://img.shields.io/badge/SUBSCRIBE-ZYLON%20AMV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Zylon AMV YouTube channel"/></a>
+<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-USERNAME%20PENDING-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile — username to be updated"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NEXT%20PROJECT-IN%20THE%20WORKS-101018?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="Next AMV in the works"/>
+<img src="https://img.shields.io/badge/NEXT%20PROJECT-LOADING...-101018?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="New AMV coming soon"/>
 
-**New edit project coming soon.** 👀
+**Next edit is in the works.** 👀
 
 *More soon — let the edit speak for itself.*
 
