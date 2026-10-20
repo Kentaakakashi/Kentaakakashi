@@ -275,6 +275,58 @@ My extremely scientific process is usually something like this:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF2A6D,50:FCEE0A,100:00F0FF" alt="Neon divider"/>
 
+---
+
+## The completely unnecessary extras
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random programming joke"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
+
+</div>
+
+## A few things about how I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Stuff I care about
+
+- Apps should feel good to use, not just look good in screenshots.
+- If I'm going to use something every day, I want to customise it.
+- I like figuring out how things work under the hood.
+- A small useful tool beats a giant app full of buttons nobody needs.
+
+</td>
+<td width="50%" valign="top">
+
+### Stuff that happens anyway
+
+- "I'll just fix this one thing."
+- Three unrelated bugs appear.
+- Somehow the UI looks worse now.
+- Revert half the changes.
+- It works. Don't touch it. Make a backup.
+
+</td>
+</tr>
+</table>
+
+## My GitHub, in motion
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kentaakakashi&bg_color=080812&color=FCEE0A&line=00F0FF&point=FF2A6D&area=true&hide_border=true&custom_title=Commits%20and%20side%20quests" alt="GitHub activity graph"/>
+
+<a href="https://github.com/Kentaakakashi?tab=repositories"><img src="https://img.shields.io/badge/THERE'S%20MORE%20IN%20THE%20REPOS-OPEN%20THE%20FOLDER-101018?style=for-the-badge&logo=github&logoColor=FCEE0A" alt="More repositories"/></a>
+
+</div>
+
 ## Got something cool?
 
 <div align="center">
