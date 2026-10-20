@@ -28,15 +28,16 @@
 
 ## <img src="https://img.shields.io/badge/01-IDENTITY-0A0A0A?style=for-the-badge&labelColor=FCEE0A&color=0A0A0A" alt="Identity"/>
 
-### Yo, choom. I'm Kenta.
+### Yo, I'm Kenta.
 
-I'm a student developer and independent builder who likes making software that feels more personal, more capable, and a little less boring.
+I'm a student who likes making things with code. Most ideas start with “wait, why can't my phone just do this?” and end with me staring at logs at an unreasonable hour.
 
-My main playgrounds are **AI assistants, Android experiences, automation, and web apps**. I learn by building real things, getting them wrong, debugging the mess, and trying again.
+I'm into AI assistants, Android customisation, web apps, automation, and random experiments that may or may not turn into actual projects. I'm still learning. Some things work first try. Most things absolutely do not. That's kind of the fun part.
 
-I don't want to just use the tech. I want to understand it well enough to build my own version.
-
-> **My operating system:** curiosity in the foreground, stubbornness in the background.
+- 🔭 Currently messing with **Theo**, my personal AI assistant
+- 📱 I like pushing Android past the boring default experience
+- 🎮 Outside code: games, music, and internet rabbit holes
+- 🧠 Current strategy: learn enough to build the thing instead of waiting for someone else to
 
 </td>
 <td width="42%" valign="top">
@@ -60,7 +61,7 @@ I don't want to just use the tech. I want to understand it well enough to build 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF2A6D,50:FCEE0A,100:00F0FF" alt="Neon divider"/>
 
-## <img src="https://img.shields.io/badge/02-MAIN%20QUESTS-0A0A0A?style=for-the-badge&labelColor=00F0FF&color=0A0A0A" alt="Main quests"/>
+## The stuff on my workbench
 
 <div align="center">
 
@@ -121,7 +122,7 @@ An ongoing experiment in Discord integration and richer presence-style experienc
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F0FF,50:FCEE0A,100:FF2A6D" alt="Neon divider"/>
 
-## <img src="https://img.shields.io/badge/03-SIDE%20GIGS-0A0A0A?style=for-the-badge&labelColor=FF2A6D&color=0A0A0A" alt="Side gigs"/>
+## More things in the folder 📂
 
 <div align="center">
 
@@ -159,7 +160,7 @@ Another bot experiment in the ever-expanding workshop.
 
 </div>
 
-## <img src="https://img.shields.io/badge/04-CYBERWARE%20LOADOUT-0A0A0A?style=for-the-badge&labelColor=FCEE0A&color=0A0A0A" alt="Cyberware loadout"/>
+## Tools I keep coming back to
 
 <div align="center">
 
@@ -178,7 +179,7 @@ Another bot experiment in the ever-expanding workshop.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF2A6D,50:FCEE0A,100:00F0FF" alt="Neon divider"/>
 
-## <img src="https://img.shields.io/badge/05-NETRUNNER%20TELEMETRY-0A0A0A?style=for-the-badge&labelColor=00F0FF&color=0A0A0A" alt="Netrunner telemetry"/>
+## GitHub stats (the part that makes graphs)
 
 <div align="center">
 
@@ -207,7 +208,7 @@ Another bot experiment in the ever-expanding workshop.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F0FF,50:FCEE0A,100:FF2A6D" alt="Neon divider"/>
 
-## <img src="https://img.shields.io/badge/06-CURRENT%20CONTRACT-0A0A0A?style=for-the-badge&labelColor=FF2A6D&color=0A0A0A" alt="Current contract"/>
+## Current status: still cooking 🍳
 
 <div align="center">
 
@@ -254,11 +255,11 @@ Get better with every release.
 
 </div>
 
-## <img src="https://img.shields.io/badge/07-THE%20NIGHT%20SHIFT-0A0A0A?style=for-the-badge&labelColor=FCEE0A&color=0A0A0A" alt="The night shift"/>
+## My very scientific development process
 
-I like software that makes technology feel personal: custom experiences, clever integrations, tiny quality-of-life upgrades, and tools that solve a problem without making the user fight the interface.
+I like software that makes technology feel personal. Custom experiences, clever integrations, tiny quality-of-life upgrades — stuff that solves a problem without making you fight the interface.
 
-My process is simple:
+My extremely scientific process is usually something like this:
 
 <div align="center">
 
@@ -266,14 +267,15 @@ My process is simple:
 
 </div>
 
-- **Function first.** Cool visuals are great; the thing still has to work.
-- **Details count.** Motion, layout, feedback, and polish change how software feels.
-- **Understand the stack.** Errors are clues, not personal insults. Usually.
-- **Keep experimenting.** Every side quest teaches something useful.
+- Get an idea and start building immediately.
+- Hit a weird error. Google the error.
+- Somehow make it worse.
+- Finally fix it and pretend that was the plan.
+- Commit before touching anything else.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF2A6D,50:FCEE0A,100:00F0FF" alt="Neon divider"/>
 
-## <img src="https://img.shields.io/badge/08-CONNECT%20TO%20THE%20GRID-0A0A0A?style=for-the-badge&labelColor=00F0FF&color=0A0A0A" alt="Connect to the grid"/>
+## Got something cool?
 
 <div align="center">
 
@@ -288,6 +290,6 @@ My process is simple:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FF2A6D,30:35112E,65:101018,100:050505&fontColor=FCEE0A&fontSize=22&text=SEE%20YOU%20IN%20THE%20AFTERLIFE&fontAlignY=62&animation=twinkling" alt="Cyberpunk footer"/>
 
-<sub>USER STATUS: LEARNING // BUILDING // NEVER FINISHED</sub>
+<sub>made of curiosity, questionable sleep schedules, and commits that hopefully compile</sub>
 
 </div>
