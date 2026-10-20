@@ -1,14 +1,14 @@
-<!-- KENTAAKAKASHI // NIGHT CITY PROFILE -->
+<!-- KENTAAKAKASHI // PROFILE README -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,18:101018,42:1B1630,68:35112E,100:FCEE0A&fontColor=FCEE0A&fontSize=48&fontAlignY=36&desc=WAKE%20THE%20F%2A%2ACK%20UP%2C%20SAMURAI.%20WE%20HAVE%20CODE%20TO%20SHIP.&descAlignY=58&descSize=12&animation=twinkling" alt="Cyberpunk neon profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=21&duration=2200&pause=650&color=FCEE0A&center=true&vCenter=true&width=800&height=48&lines=KENTAAKAKASHI.exe;STUDENT+DEV+%2F+INDEPENDENT+BUILDER;AI+SYSTEMS+%2B+ANDROID+%2B+WEB;WELCOME+TO+MY+LITTLE+CORNER+OF+NIGHT+CITY" alt="Animated cyberpunk intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=21&duration=2200&pause=650&color=FCEE0A&center=true&vCenter=true&width=800&height=48&lines=KENTAAKAKASHI.exe;STUDENT+DEV+%2F+INDEPENDENT+BUILDER;AI+SYSTEMS+%2B+ANDROID+%2B+WEB;WELCOME+TO+MY+LITTLE+CORNER+OF+THE+INTERNET" alt="Animated cyberpunk intro"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LOCATION-NIGHT%20CITY-0A0A0A?style=for-the-badge&labelColor=00F0FF&color=101018" alt="Night City"/>
+<img src="https://img.shields.io/badge/LOCATION-ONLINE-0A0A0A?style=for-the-badge&labelColor=00F0FF&color=101018" alt="Online"/>
 <img src="https://img.shields.io/badge/CLASS-BUILDER-0A0A0A?style=for-the-badge&labelColor=FCEE0A&color=101018" alt="Builder"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-0A0A0A?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="Online status"/>
 <img src="https://komarev.com/ghpvc/?username=Kentaakakashi&label=NETRUNNERS%20PASSED%20THROUGH&color=00F0FF&style=for-the-badge" alt="Profile views"/>
