@@ -335,7 +335,7 @@ My extremely scientific process is usually something like this:
 <br/>
 
 <a href="https://youtube.com/@zylon_amv"><img src="https://img.shields.io/badge/SUBSCRIBE-ZYLON%20AMV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Zylon AMV YouTube channel"/></a>
-<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-USERNAME%20PENDING-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile — username to be updated"/></a>
+<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-kenta.kakashi-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: kenta.kakashi"/></a>
 
 <br/><br/>
 
