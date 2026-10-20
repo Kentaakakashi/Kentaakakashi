@@ -183,28 +183,12 @@ Another bot experiment in the ever-expanding workshop.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kentaakakashi&theme=2077" alt="GitHub activity summary"/>
-
-<br/>
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kentaakakashi&show_icons=true&hide_border=true&rank_icon=github&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&icon_color=00F0FF&ring_color=FF2A6D&include_all_commits=true" alt="GitHub statistics"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentaakakashi&layout=compact&hide_border=true&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&langs_count=8" alt="Most-used languages"/>
 
-<br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kentaakakashi&theme=dark&hide_border=true&background=080812&ring=FCEE0A&fire=FF2A6D&currStreakLabel=00F0FF&sideLabels=D5D7E0&currStreakNum=FCEE0A&sideNums=00F0FF&dates=777777" alt="Contribution streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kentaakakashi&bg_color=080812&color=FCEE0A&line=00F0FF&point=FF2A6D&area=true&area_color=31152F&hide_border=true&custom_title=NIGHT%20CITY%20BUILD%20LOG" alt="Contribution activity graph"/>
-
-<br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kentaakakashi&theme=matrix&no-frame=true&no-bg=true&margin-w=5&row=1&column=7" alt="GitHub profile trophies"/>
-
 </div>
 
-<sub>Telemetry is rendered by third-party services. Cards may take a little while to update or may temporarily disappear when a provider is unavailable.</sub>
+<sub>Stats cards are served by a third-party service and may occasionally be unavailable.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F0FF,50:FCEE0A,100:FF2A6D" alt="Neon divider"/>
 
@@ -317,32 +301,53 @@ My extremely scientific process is usually something like this:
 </tr>
 </table>
 
-## My GitHub, in motion
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kentaakakashi&bg_color=080812&color=FCEE0A&line=00F0FF&point=FF2A6D&area=true&hide_border=true&custom_title=Commits%20and%20side%20quests" alt="GitHub activity graph"/>
-
-<a href="https://github.com/Kentaakakashi?tab=repositories"><img src="https://img.shields.io/badge/THERE'S%20MORE%20IN%20THE%20REPOS-OPEN%20THE%20FOLDER-101018?style=for-the-badge&logo=github&logoColor=FCEE0A" alt="More repositories"/></a>
-
-</div>
-
 ## Outside the code editor 🎬
 
-When I'm not building apps, I'm making **AMV edits**. Different kind of timeline, same obsession with getting every detail to hit right.
-
 <div align="center">
 
-<a href="https://youtube.com/@zylon_amv?si=aHzaWfA5Vy3YP6xu"><img src="https://img.shields.io/badge/YOUTUBE-ZYLON_AMV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Zylon AMV YouTube channel"/></a>
-<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-1105394446230638623-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:090910,45:35112E,100:FF003C&text=LATEST%20TRANSMISSIONS&fontColor=FFFFFF&fontSize=24&fontAlignY=55" alt="Latest AMV transmissions"/>
+
+**I make AMVs too. Same perfectionism, different timeline.**
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://youtu.be/JLAVyP8d4m4"><img width="100%" src="https://i.ytimg.com/vi/JLAVyP8d4m4/hqdefault.jpg" alt="Watch my edit: I love"/></a>
+
+<a href="https://youtu.be/JLAVyP8d4m4"><img src="https://img.shields.io/badge/01- I%20LOVE-FF003C?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch I love edit"/></a>
+
+**EDIT I LOVE**
+
+<sub>Tap the thumbnail to watch on YouTube.</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://youtu.be/tflu-1wDqmo"><img width="100%" src="https://i.ytimg.com/vi/tflu-1wDqmo/hqdefault.jpg" alt="Watch my second edit"/></a>
+
+<a href="https://youtu.be/tflu-1wDqmo"><img src="https://img.shields.io/badge/02-SECOND%20EDIT-8B2BFF?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch second edit"/></a>
+
+**LATEST DROP**
+
+<sub>Tap the thumbnail to watch on YouTube.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://youtube.com/@zylon_amv"><img src="https://img.shields.io/badge/SUBSCRIBE-ZYLON%20AMV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Zylon AMV"/></a>
+<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-OPEN%20MY%20PROFILE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Open Discord profile"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NEXT%20AMV-LOADING...-101018?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="New AMV coming soon"/>
+<img src="https://img.shields.io/badge/NEXT%20PROJECT-IN%20THE%20WORKS-101018?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="Next AMV in the works"/>
 
 **New edit project coming soon.** 👀
 
-More soon — let the edit speak for itself.
+*More soon — let the edit speak for itself.*
 
 </div>
 
