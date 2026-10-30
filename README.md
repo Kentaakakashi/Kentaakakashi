@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Kentaakakashi?tab=repositories"><img src="https://img.shields.io/badge/ACCESS%20THE%20GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FCEE0A" alt="Access GitHub"/></a>
+<a href="https://github.com/Kentaakakashi?tab=repositories">ACCESS THE GITHUB ↗</a>
 <a href="https://github.com/Kentaakakashi?tab=stars"><img src="https://img.shields.io/badge/BLACKWALL%20ARCHIVE-0A0A0A?style=for-the-badge&logo=github&logoColor=00F0FF" alt="Starred repositories"/></a>
 
 </div>
@@ -26,7 +26,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## <img src="https://img.shields.io/badge/01-IDENTITY-0A0A0A?style=for-the-badge&labelColor=FCEE0A&color=0A0A0A" alt="Identity"/>
+## ### IDENTITY
 
 ### Yo, I'm Kenta.
 
@@ -53,7 +53,7 @@ I'm into AI assistants, Android customisation, web apps, automation, and random 
 | Aesthetic | Neon-noir |
 | Current mission | Learn. Build. Repeat. |
 
-<img width="100%" src="https://img.shields.io/badge/NO%20CORPO%20NO%20PROBLEM-111111?style=for-the-badge&logo=probot&logoColor=00F0FF" alt="No corpo"/>
+**NO CORPO · NO PROBLEM**
 
 </td>
 </tr>
@@ -69,7 +69,7 @@ I'm into AI assistants, Android customisation, web apps, automation, and random 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Kentaakakashi/Theo-AI-mobile"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kentaakakashi&repo=Theo-AI-mobile&theme=transparent&hide_border=true&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&icon_color=00F0FF" alt="Theo AI project card"/></a>
+<a href="https://github.com/Kentaakakashi/Theo-AI-mobile"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=THEO%20AI%20MOBILE" alt="Theo AI project card"/></a>
 
 <img src="https://img.shields.io/badge/QUEST%20TYPE-PERSONAL%20AI-101018?style=flat-square&labelColor=FF2A6D&color=101018" alt="Personal AI quest"/>
 
@@ -80,7 +80,7 @@ An Android-first assistant project exploring natural conversation, useful workfl
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Kentaakakashi/Northstar"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kentaakakashi&repo=Northstar&theme=transparent&hide_border=true&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&icon_color=00F0FF" alt="Northstar project card"/></a>
+<a href="https://github.com/Kentaakakashi/Northstar"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=NORTHSTAR" alt="Northstar project card"/></a>
 
 <img src="https://img.shields.io/badge/QUEST%20TYPE-LIFE%20PLANNING-101018?style=flat-square&labelColor=00F0FF&color=101018" alt="Life planning quest"/>
 
@@ -93,7 +93,7 @@ An AI-assisted goal-planning concept focused on realistic roadmaps, alternative 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Kentaakakashi/BitChord"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kentaakakashi&repo=BitChord&theme=transparent&hide_border=true&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&icon_color=00F0FF" alt="BitChord project card"/></a>
+<a href="https://github.com/Kentaakakashi/BitChord"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=BITCHORD" alt="BitChord project card"/></a>
 
 <img src="https://img.shields.io/badge/QUEST%20TYPE-MUSIC%20TECH-101018?style=flat-square&labelColor=FCEE0A&color=101018" alt="Music quest"/>
 
@@ -104,7 +104,7 @@ A music-app project and a sandbox for exploring Android playback, customisation,
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Kentaakakashi/Discord-widget"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kentaakakashi&repo=Discord-widget&theme=transparent&hide_border=true&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&icon_color=00F0FF" alt="Discord Widget project card"/></a>
+<a href="https://github.com/Kentaakakashi/Discord-widget"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=DISCORD%20WIDGET" alt="Discord Widget project card"/></a>
 
 <img src="https://img.shields.io/badge/QUEST%20TYPE-INTEGRATION-101018?style=flat-square&labelColor=FF2A6D&color=101018" alt="Integration quest"/>
 
@@ -116,7 +116,7 @@ An ongoing experiment in Discord integration and richer presence-style experienc
 </tr>
 </table>
 
-<a href="https://github.com/Kentaakakashi?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20ALL%20QUESTS-0A0A0A?style=for-the-badge&logo=github&logoColor=FCEE0A" alt="Open all projects"/></a>
+<a href="https://github.com/Kentaakakashi?tab=repositories">OPEN ALL QUESTS ↗</a>
 
 </div>
 
@@ -130,7 +130,7 @@ An ongoing experiment in Discord integration and richer presence-style experienc
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://github.com/Kentaakakashi/API-sentinal"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kentaakakashi&repo=API-sentinal&theme=transparent&hide_border=true&bg_color=080812&title_color=00F0FF&text_color=D5D7E0&icon_color=FCEE0A" alt="API Sentinal project card"/></a>
+<a href="https://github.com/Kentaakakashi/API-sentinal"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=API%20SENTINAL" alt="API Sentinal project card"/></a>
 
 **API-SENTINAL**
 
@@ -139,7 +139,7 @@ Tooling experiment from the public project collection.
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/Kentaakakashi/WHITEOUT-BOT"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kentaakakashi&repo=WHITEOUT-BOT&theme=transparent&hide_border=true&bg_color=080812&title_color=00F0FF&text_color=D5D7E0&icon_color=FCEE0A" alt="WHITEOUT BOT project card"/></a>
+<a href="https://github.com/Kentaakakashi/WHITEOUT-BOT"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=WHITEOUT%20BOT" alt="WHITEOUT BOT project card"/></a>
 
 **WHITEOUT-BOT**
 
@@ -148,7 +148,7 @@ A bot project exploring automation and interactive community tools.
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/Kentaakakashi/Void-bot"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kentaakakashi&repo=Void-bot&theme=transparent&hide_border=true&bg_color=080812&title_color=00F0FF&text_color=D5D7E0&icon_color=FCEE0A" alt="Void bot project card"/></a>
+<a href="https://github.com/Kentaakakashi/Void-bot"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=VOID%20BOT" alt="Void bot project card"/></a>
 
 **VOID-BOT**
 
@@ -183,7 +183,7 @@ Another bot experiment in the ever-expanding workshop.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kentaakakashi&show_icons=true&hide_border=true&rank_icon=github&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&icon_color=00F0FF&ring_color=FF2A6D&include_all_commits=true" alt="GitHub statistics"/>
+<img height="180" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:101018,50:1B1630,100:35112E&fontColor=FCEE0A&fontSize=20&text=GITHUB%20STATS%20TEMPORARILY%20UNAVAILABLE" alt="GitHub statistics"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentaakakashi&layout=compact&hide_border=true&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&langs_count=8" alt="Most-used languages"/>
 
 </div>
