@@ -184,7 +184,7 @@ Another bot experiment in the ever-expanding workshop.
 <div align="center">
 
 <img height="180" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:101018,50:1B1630,100:35112E&fontColor=FCEE0A&fontSize=20&text=GITHUB%20STATS%20TEMPORARILY%20UNAVAILABLE" alt="GitHub statistics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentaakakashi&layout=compact&hide_border=true&bg_color=080812&title_color=FCEE0A&text_color=D5D7E0&langs_count=8" alt="Most-used languages"/>
+<img height="180" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:101018,50:1B1630,100:35112E&fontColor=FCEE0A&fontSize=20&text=LANGUAGES%20AND%20TOOLS" alt="Most-used languages"/>
 
 </div>
 
