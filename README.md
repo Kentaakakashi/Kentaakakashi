@@ -8,15 +8,15 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/LOCATION-ONLINE-0A0A0A?style=for-the-badge&labelColor=00F0FF&color=101018" alt="Online"/>
-<img src="https://img.shields.io/badge/CLASS-BUILDER-0A0A0A?style=for-the-badge&labelColor=FCEE0A&color=101018" alt="Builder"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-0A0A0A?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="Online status"/>
-<img src="https://komarev.com/ghpvc/?username=Kentaakakashi&label=NETRUNNERS%20PASSED%20THROUGH&color=00F0FF&style=for-the-badge" alt="Profile views"/>
+**Online**
+**Builder**
+**Online status**
+**Profile views**
 
 <br/><br/>
 
 <a href="https://github.com/Kentaakakashi?tab=repositories">ACCESS THE GITHUB ↗</a>
-<a href="https://github.com/Kentaakakashi?tab=stars"><img src="https://img.shields.io/badge/BLACKWALL%20ARCHIVE-0A0A0A?style=for-the-badge&logo=github&logoColor=00F0FF" alt="Starred repositories"/></a>
+<a href="https://github.com/Kentaakakashi?tab=stars">Starred repositories</a>
 
 </div>
 
@@ -71,7 +71,7 @@ I'm into AI assistants, Android customisation, web apps, automation, and random 
 
 <a href="https://github.com/Kentaakakashi/Theo-AI-mobile"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=THEO%20AI%20MOBILE" alt="Theo AI project card"/></a>
 
-<img src="https://img.shields.io/badge/QUEST%20TYPE-PERSONAL%20AI-101018?style=flat-square&labelColor=FF2A6D&color=101018" alt="Personal AI quest"/>
+**Personal AI quest**
 
 **THEO // THE PERSONAL AI**
 
@@ -82,7 +82,7 @@ An Android-first assistant project exploring natural conversation, useful workfl
 
 <a href="https://github.com/Kentaakakashi/Northstar"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=NORTHSTAR" alt="Northstar project card"/></a>
 
-<img src="https://img.shields.io/badge/QUEST%20TYPE-LIFE%20PLANNING-101018?style=flat-square&labelColor=00F0FF&color=101018" alt="Life planning quest"/>
+**Life planning quest**
 
 **NORTHSTAR // THE ROUTE FINDER**
 
@@ -95,7 +95,7 @@ An AI-assisted goal-planning concept focused on realistic roadmaps, alternative 
 
 <a href="https://github.com/Kentaakakashi/BitChord"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=BITCHORD" alt="BitChord project card"/></a>
 
-<img src="https://img.shields.io/badge/QUEST%20TYPE-MUSIC%20TECH-101018?style=flat-square&labelColor=FCEE0A&color=101018" alt="Music quest"/>
+**Music quest**
 
 **BITCHORD // AUDIO DECK**
 
@@ -106,7 +106,7 @@ A music-app project and a sandbox for exploring Android playback, customisation,
 
 <a href="https://github.com/Kentaakakashi/Discord-widget"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101018,100:35112E&fontColor=FCEE0A&fontSize=18&text=DISCORD%20WIDGET" alt="Discord Widget project card"/></a>
 
-<img src="https://img.shields.io/badge/QUEST%20TYPE-INTEGRATION-101018?style=flat-square&labelColor=FF2A6D&color=101018" alt="Integration quest"/>
+**Integration quest**
 
 **DISCORD WIDGET // SIGNAL LINK**
 
@@ -168,10 +168,10 @@ Another bot experiment in the ever-expanding workshop.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20EXPERIMENTS-11111B?style=for-the-badge&logo=openai&logoColor=00F0FF" alt="AI experiments"/>
-<img src="https://img.shields.io/badge/ANDROID-11111B?style=for-the-badge&logo=android&logoColor=FCEE0A" alt="Android"/>
-<img src="https://img.shields.io/badge/WEB%20UI-11111B?style=for-the-badge&logo=react&logoColor=00F0FF" alt="Web UI"/>
-<img src="https://img.shields.io/badge/GIT%20%26%20GITHUB-11111B?style=for-the-badge&logo=github&logoColor=FF2A6D" alt="Git and GitHub"/>
+**AI experiments**
+**Android**
+**Web UI**
+**Git and GitHub**
 
 </div>
 
@@ -183,8 +183,7 @@ Another bot experiment in the ever-expanding workshop.
 
 <div align="center">
 
-<img height="180" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:101018,50:1B1630,100:35112E&fontColor=FCEE0A&fontSize=20&text=GITHUB%20STATS%20TEMPORARILY%20UNAVAILABLE" alt="GitHub statistics"/>
-<img height="180" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:101018,50:1B1630,100:35112E&fontColor=FCEE0A&fontSize=20&text=LANGUAGES%20AND%20TOOLS" alt="Most-used languages"/>
+<p><strong>GitHub stats</strong> · Stats cards are temporarily omitted because the external stats service is unreliable. Your projects and technology stack are listed above.</p>
 
 </div>
 
@@ -200,7 +199,7 @@ Another bot experiment in the ever-expanding workshop.
 <tr>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/01-NEURAL%20LINK-101018?style=for-the-badge&labelColor=00F0FF&color=101018" alt="Neural link"/>
+**Neural link**
 
 **AI**
 
@@ -209,7 +208,7 @@ Build assistants that do more than talk.
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/02-CHROME-101018?style=for-the-badge&labelColor=FCEE0A&color=101018" alt="Chrome"/>
+**Chrome**
 
 **ANDROID**
 
@@ -218,7 +217,7 @@ Make everyday devices feel more personal.
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/03-INTERFACE-101018?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="Interface"/>
+**Interface**
 
 **DESIGN**
 
@@ -227,7 +226,7 @@ Build interfaces with actual character.
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/04-LEVEL%20UP-101018?style=for-the-badge&labelColor=00F0FF&color=101018" alt="Level up"/>
+**Level up**
 
 **LEARNING**
 
@@ -265,11 +264,11 @@ My extremely scientific process is usually something like this:
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random programming joke"/>
+**DEBUG MODE:** It works on my machine.
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
+*Build things. Break things. Learn things.*
 
 </div>
 
@@ -315,7 +314,7 @@ My extremely scientific process is usually something like this:
 
 <a href="https://youtu.be/JLAVyP8d4m4"><img width="100%" src="https://img.youtube.com/vi/JLAVyP8d4m4/hqdefault.jpg" alt="Watch my edit — latest AMV"/></a>
 
-<a href="https://youtu.be/JLAVyP8d4m4"><img src="https://img.shields.io/badge/WATCH%20EDIT-01-FF003C?style=for-the-badge&labelColor=101018" alt="Watch edit one"/></a>
+<a href="https://youtu.be/JLAVyP8d4m4">Watch edit one</a>
 
 **EDIT I LOVE**
 
@@ -324,7 +323,7 @@ My extremely scientific process is usually something like this:
 
 <a href="https://youtu.be/tflu-1wDqmo"><img width="100%" src="https://img.youtube.com/vi/tflu-1wDqmo/hqdefault.jpg" alt="Watch my second AMV edit"/></a>
 
-<a href="https://youtu.be/tflu-1wDqmo"><img src="https://img.shields.io/badge/WATCH%20EDIT-02-8B5CF6?style=for-the-badge&labelColor=101018" alt="Watch edit two"/></a>
+<a href="https://youtu.be/tflu-1wDqmo">Watch edit two</a>
 
 **SECOND CUT**
 
@@ -334,12 +333,12 @@ My extremely scientific process is usually something like this:
 
 <br/>
 
-<a href="https://youtube.com/@zylon_amv"><img src="https://img.shields.io/badge/SUBSCRIBE-ZYLON%20AMV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Zylon AMV YouTube channel"/></a>
-<a href="https://discord.com/users/1105394446230638623"><img src="https://img.shields.io/badge/DISCORD-kenta.kakashi-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: kenta.kakashi"/></a>
+<a href="https://youtube.com/@zylon_amv">Zylon AMV YouTube channel</a>
+<a href="https://discord.com/users/1105394446230638623">Discord: kenta.kakashi</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NEXT%20PROJECT-LOADING...-101018?style=for-the-badge&labelColor=FF2A6D&color=101018" alt="New AMV coming soon"/>
+**New AMV coming soon**
 
 **Next edit is in the works.** 👀
 
@@ -357,8 +356,8 @@ My extremely scientific process is usually something like this:
 
 <br/>
 
-<a href="https://github.com/Kentaakakashi?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20THE%20REPOS-0A0A0A?style=for-the-badge&logo=github&logoColor=FCEE0A" alt="Browse repositories"/></a>
-<a href="https://github.com/Kentaakakashi"><img src="https://img.shields.io/badge/OPEN%20PROFILE-0A0A0A?style=for-the-badge&logo=github&logoColor=00F0FF" alt="Open profile"/></a>
+<a href="https://github.com/Kentaakakashi?tab=repositories">Browse repositories</a>
+<a href="https://github.com/Kentaakakashi">Open profile</a>
 
 <br/><br/>
 
